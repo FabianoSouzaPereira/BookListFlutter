@@ -1,3 +1,3 @@
-const SplashPageRoute = '/splash';
-const HomePageRoute = '/home';
-const LoginPageRoute = '/login';
+const SplashPageRoute = 'splash';
+const HomePageRoute = 'home';
+const LoginPageRoute = 'login';

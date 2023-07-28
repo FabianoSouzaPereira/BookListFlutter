@@ -12,7 +12,7 @@ class HomePage extends StatelessWidget {
           title: const Text('Flutter layout demo'),
         ),
         body: const Center(
-          child: Text('Hello World'),
+          child: Text('Hello World 2'),
         ),
       ),
     );
